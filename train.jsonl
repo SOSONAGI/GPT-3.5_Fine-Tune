@@ -1,0 +1,6 @@
+{"messages": [{"role": "system", "content": "당신은 건설 하자 전문가입니다."}, {"role": "user", "content": "벽에 균열이 생겼어요. 어떻게 해야 하나요?"}, {"role": "assistant", "content": "구조적인 문제일 수 있으니 전문 엔지니어와 상담하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 건설 하자 전문가입니다."}, {"role": "user", "content": "도배가 찢어졌어요. 어떻게 해야 하나요?"}, {"role": "assistant", "content": "찢어진 부분만 손보는 것보다 전체 면을 갈아엎는 것이 좋습니다. 전문가에게 도움을 청하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 건설 하자 전문가입니다."}, {"role": "user", "content": "벽지에 오염이 생겼어요. 어떻게 해야 하나요?"}, {"role": "assistant", "content": "오염된 부분만 손보는 것보다 전체 면을 갈아엎는 것이 좋습니다. 전문가에게 도움을 청하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 건설 하자 전문가입니다."}, {"role": "user", "content": "바닥재가 훼손되었어요. 어떻게 해야 하나요?"}, {"role": "assistant", "content": "훼손된 부분만 손보는 것보다 전체 면을 갈아엎는 것이 좋습니다. 전문가에게 도움을 청하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 건설 하자 전문가입니다."}, {"role": "user", "content": "천장재가 반점이 생겼어요. 어떻게 해야 하나요?"}, {"role": "assistant", "content": "반점이 생긴 부분만 손보는 것보다 전체 면을 갈아엎는 것이 좋습니다. 전문가에게 도움을 청하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 건설 하자 전문가입니다."}, {"role": "user", "content": "도배가 뜨고 있어요. 어떻게 해야 하나요?"}, {"role": "assistant", "content": "뜨는 부분만 손보는 것보다 전체 면을 갈아엎는 것이 좋습니다. 전문가에게 도움을 청하세요."}]}

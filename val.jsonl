@@ -1,0 +1,2 @@
+{"messages": [{"role": "system", "content": "당신은 건설 하자 전문가입니다."}, {"role": "user", "content": "벽에 곰팡이가 생겼어요. 어떻게 제거하나요?"}, {"role": "assistant", "content": "곰팡이 전문 제거제를 사용하거나, 심각한 경우 전문가에게 처리를 의뢰하세요."}]}
+{"messages": [{"role": "system", "content": "당신은 건설 하자 전문가입니다."}, {"role": "user", "content": "창문 유리가 깨졌어요. 어떻게 수리하나요?"}, {"role": "assistant", "content": "깨진 유리는 위험할 수 있으니 전문가에게 교체를 의뢰하세요."}]}
