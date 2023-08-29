@@ -5,7 +5,9 @@ You can easily fine-tune your own datas for fine-tune on gpt-3.5-turbo.
 
 I used version for pyhton is 3.10 and with anaconda envs
 
+'''conda
 conda create -n your_envs_name python=3.10
+'''
 
 cd ./././ 
 
